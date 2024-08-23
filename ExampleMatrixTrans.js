@@ -50,10 +50,10 @@ function main(){
   g_points[index].push(-0.41);  g_points[index].push(0);   g_points[index].push(-0.1);
   g_points[index].push(-0.39);  g_points[index].push(0);   g_points[index].push(-0.1);
 
-  g_colors[index].push(Math.random()); g_colors[index].push(Math.random()); g_colors[index].push(Math.random());
-  g_colors[index].push(Math.random()); g_colors[index].push(Math.random()); g_colors[index].push(Math.random());
-  g_colors[index].push(Math.random()); g_colors[index].push(Math.random()); g_colors[index].push(Math.random());
-  g_colors[index].push(Math.random()); g_colors[index].push(Math.random()); g_colors[index].push(Math.random());
+  g_colors[index].push(100); g_colors[index].push(100); g_colors[index].push(100);
+  g_colors[index].push(100); g_colors[index].push(100); g_colors[index].push(100);
+  g_colors[index].push(100); g_colors[index].push(100); g_colors[index].push(100);
+  g_colors[index].push(100); g_colors[index].push(100); g_colors[index].push(100);
 
   //Hour hand
   g_pointsB[index].push(-0.42);  g_pointsB[index].push(0.3);   g_pointsB[index].push(0.0);
